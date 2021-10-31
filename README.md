@@ -4,8 +4,8 @@ Today I Learned
 
 ## React
 
-1. [함수형 컴포넌트 vs 클래스형 컴포넌트](React/함수형 컴포넌트 vs 클래스형 컴포넌트.md)
-2. [리스팅 함수(map, foreach)와 key index](React/리스팅 함수와 key .md)
+1. [함수형 컴포넌트 vs 클래스형 컴포넌트](React/함수형 컴포넌트 vs 클래스형 컴포넌트.md).
+2. [리스팅 함수(map, foreach)와 key index](React/리스팅 함수와 key .md).
 
 ## Spring Boot
 
