@@ -11,6 +11,7 @@ Today I Learned
 ## Spring Boot
 1. [Builder 패턴](https://github.com/junam2/TIL/blob/main/SpringBoot/builder%20%ED%8C%A8%ED%84%B4.md)
 2. [resTemplate 정리](https://github.com/junam2/TIL/blob/main/SpringBoot/restTemplate.md)
+3. [JPA Auditing](https://github.com/junam2/TIL/blob/main/SpringBoot/JPA%20Auditing.md)
 
 ## 정리할 내용 (2021-10-23)
 
