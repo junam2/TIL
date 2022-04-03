@@ -15,6 +15,9 @@ Today I Learned
 4. [SecurityConfig 설정 정리](https://github.com/junam2/TIL/blob/main/SpringBoot/SpringBoot_SecurityConfig.md)
 5. [Custom Annotation 정리](https://github.com/junam2/TIL/blob/main/SpringBoot/Custom_Annotation.md)
 
+## Java
+1. [Stream 정리](https://github.com/junam2/TIL/blob/main/Java/Stream.md)
+
 ## 정리할 내용 (2021-10-23)
 
 #### Spring boot
